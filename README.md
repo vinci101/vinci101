@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an awesome project
-- 🌱 I’m currently learning React Native, Typescript, Mongoose
-- 👯 I’m looking to collaborate on React.js
+- 🌱 I’m currently learning NestJS, Mongoose
+- 👯 I’m looking to collaborate on ReactJS
 - 💬 Ask me about Javascript
 - 📫 How to reach me: alvin.l.calma.ac@gmail.com
 
